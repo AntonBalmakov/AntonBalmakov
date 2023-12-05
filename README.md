@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=AntonBalmakov&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+###  About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 <img align="left" alt="Python" width="28px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -50,8 +50,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonBalmakov&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br />
 
 <a>[![trophy](https://github-profile-trophy.vercel.app/?username=AntonBalmakov&theme=matrix&row=1)](https://github.com/ryo-ma/github-profile-trophy)
